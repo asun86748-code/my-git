@@ -1,4 +1,4 @@
-console.log(1);
+console.log("0000");
 console.log(222);
 console.log("ttt");
 
